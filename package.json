@@ -1,0 +1,26 @@
+{
+  "name": "@encoreskytech/ng-otp-input-box",
+  "version": "0.0.2",
+  "description": "A customizable, OTP input module for the web built with Angular",
+  "author": "Encoresky Technologies Pvt Ltd",
+  "repository": "",
+  "keywords": [
+    "angular",
+    "OTP input box",
+    "ng one time password",
+    "ng-otp-input-box",
+    "ng-otp",
+    "otp input box", 
+    "angular customized otp box",
+    "typescript",
+    "Encoresky Technologies pvt ltd",
+    "Est"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^10.2.4",
+    "@angular/core": "^10.2.4"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
